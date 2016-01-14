@@ -4,7 +4,7 @@ Online game je knjiga koja opisuje skup tehnika zavođenja devojaka koje sam sku
 
 Detaljno opisana iskustva i metode, od online razgovore, preko upoznavanja i sexa, a u nekim slučajevima i veze. 
 
-# Kako čitati ovu knjigu
+# Kako čitati ovu knjigu i šta ona sadrži? 
 
 Kao i svaki programer, jako sam škrt na rečima i baš iz tog razloga je sve u ovoj knjizi isprepletano. 
 Zbog toga je neophodno prvo pročitati ovu knjigu kao celinu, a kasnije možete da ponovo čitate samo delove koji vas zanimaju. 
