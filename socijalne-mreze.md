@@ -8,4 +8,8 @@ Ovo poglavlje može da bude poprilično individualno i da zavisi od geografske l
 
 ## Badoo
 
+### Popularnost u Srbiji
+
+Kada je Badoo u pitanju, ono što treba da napomenem jeste da je trenutno pravi šampion po brojnosti korisnika u Srbiji iako u nekim drugim zemljama baš i ne brilira. 
+
 
