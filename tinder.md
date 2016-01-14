@@ -1,3 +1,18 @@
 ## Tinder
 
+Tinder je trenutno u Srbiji mnogo manje zastupljen nego Badoo, ali i dalje vredan posedovanja naloga. 
+
+### Popularnost
+
+Kao što sam već rekao, Tinder je mnogo manje zastupljen nego Badoo, ali, na svu sreću, sve brže i brže napreduje na našem području. 
+
+Kada je u pitanju inostranstvo, u većini slučajeva je popularniji nego Badoo i preporučujem da ga koristite kada ste na putu. 
+
+### Mogućnosti koje možete da koristite
+
+#### Flamite
+
+Za razliku od Badooa, Tinder ne može da se koristi bez susreta, tako da, to je nešto što morate da koristite. Ako želite da koristite Autolike tehniku, to možete uraditi tako što ćete koristiti [Flamite](https://flamite.com/) [^1]
+
+[^1]: Flamite je web klijent za Tinder koji podržava autolike
 

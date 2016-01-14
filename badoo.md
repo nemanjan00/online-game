@@ -2,11 +2,11 @@
 
 Badoo je web i mobilna aplikacija za upoznavanje novih ljudi. 
 
-### Popularnost u Srbiji
+### Popularnost
 
 Kada je Badoo u pitanju, ono što treba da napomenem jeste da je trenutno pravi šampion po brojnosti korisnika u Srbiji iako u nekim drugim zemljama baš i ne brilira. 
 
-### Mogućnosti koje ćemo koristiti
+### Mogućnosti možete da koristite
 
 #### Susreti
 
