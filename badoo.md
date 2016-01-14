@@ -14,3 +14,7 @@ Tehnika koju koristim da iskoristim ovu mogućnost je [Badoo autolike](https://g
 
 Zašto je ova tehnika korisna? Zato što štedite vreme na pregledanju profila devojaka. Umesto da pregledate svaki profil koji lajkujete, vi jednostavno samo odaberete neke od devojaka koje su i vas lajkovale.
 
+#### Privatne fotografije
+
+Badoo podržava dodavanje privatnih fotografija na vaš profil. Tu mogućnost možemo da iskoristimo kao indikator zainteresovanosti devojke. Ako pošalje zahtev da vidi privatne forografije, to je PI (pokazivač interesovanja). 
+
