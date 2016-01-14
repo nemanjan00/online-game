@@ -1,5 +1,7 @@
 ## Badoo
 
+Badoo je web i mobilna aplikacija za upoznavanje novih ljudi. 
+
 ### Popularnost u Srbiji
 
 Kada je Badoo u pitanju, ono što treba da napomenem jeste da je trenutno pravi šampion po brojnosti korisnika u Srbiji iako u nekim drugim zemljama baš i ne brilira. 
@@ -17,6 +19,10 @@ Zašto je ova tehnika korisna? Zato što štedite vreme na pregledanju profila d
 #### Privatne fotografije
 
 Badoo podržava dodavanje privatnih fotografija na vaš profil. Tu mogućnost možemo da iskoristimo kao indikator zainteresovanosti devojke. Ako pošalje zahtev da vidi privatne forografije, to je PI[^1]. 
+
+#### Fotografije u četu
+
+Ova opcija može da vam bude jako korisna, za slanje memeova koji su reakcija na ono što je ona napisala ili da joj prosledite neku kul fotku kako biste sebi podigli vrednost. 
 
 [^1]: Pokazivač interesovanja. To je signal da devojka želi da sazna više o vama. 
 
