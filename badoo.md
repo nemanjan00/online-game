@@ -18,5 +18,5 @@ Zašto je ova tehnika korisna? Zato što štedite vreme na pregledanju profila d
 
 Badoo podržava dodavanje privatnih fotografija na vaš profil. Tu mogućnost možemo da iskoristimo kao indikator zainteresovanosti devojke. Ako pošalje zahtev da vidi privatne forografije, to je PI[^1]. 
 
-[^2]: Pokazivač interesovanja. To je signal da devojka želi da sazna više o vama. 
+[^1]: Pokazivač interesovanja. To je signal da devojka želi da sazna više o vama. 
 
