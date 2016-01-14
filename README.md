@@ -6,8 +6,16 @@ Detaljno opisana iskustva i metode, od online razgovore, preko upoznavanja i sex
 
 # Kako čitati ovu knjigu
 
-Kao i svaki programer, jako sam škrt na rečima i beš iz tog razloga je sve u ovoj knjizi isprepletano. 
-Iz tog razloga je neophodno prvo pročitati ovu knjigu kao celinu, a kasnije možete da ponovo čitate samo delove koji vas zanimaju. 
+Kao i svaki programer, jako sam škrt na rečima i baš iz tog razloga je sve u ovoj knjizi isprepletano. 
+Zbog toga je neophodno prvo pročitati ovu knjigu kao celinu, a kasnije možete da ponovo čitate samo delove koji vas zanimaju. 
 
 Pre svega, pričaću vam o socijalnim mrežama kako biste shvatili na koji način one funkcionišu i odabrali metodologiju koja vama najviše odgovara. 
+
+Kada odaberete socijalnu mrežu, neophodno je da ostavite dobar utisak svojim profilom. Provešću vas kroz odabir fotografija, pisanje opisa i načine na koje možete da se izdvojite. 
+
+Kada završite sa profilom, treba da započnete sa razgovorom. Online game je igra brojeva i samim tim, cilj uvodne poruke je samo da devojka odgovori na nju. 
+Naučiću vas kako da izaberete kvalitetnu uvodnu poruku koja će vam obezbediti mnogo odgovora devojaka. 
+
+Ostatak knjige još nisam raščlanio, ali kada dođe do toga, dopuniću ovo poglavlje. 
+
 
