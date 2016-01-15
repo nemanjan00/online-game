@@ -14,7 +14,7 @@ Ja sam haker po verskom, nacionalnom i seksualnom opredeljenju. Ono što me pokr
 
 Na internetu postoji mnogo knjiga na ovu temu, ali smatram da je moj pogled na svet dao ovoj knjizi potpuno drugačije čari i umnogome je oblikovao. 
 
-# Kako čitati ovu knjigu i šta ona sadrži? 
+## Kako čitati ovu knjigu i šta ona sadrži? 
 
 Kao i svaki programer, jako sam sistematičan i samim tim, za razumevanje svega u ovoj knjizi, bitno je čitati je detaljno i bez preskakanja. 
 Zbog toga je neophodno prvo pročitati ovu knjigu kao celinu, a kasnije možete da ponovo čitate samo delove koji vas zanimaju. 
