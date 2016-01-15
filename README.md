@@ -1,10 +1,12 @@
 # Online Game
 
+## Kratak opis knjige
+
 Online game je knjiga koja opisuje skup tehnika zavođenja devojaka koje sam skupio i usavršio godinama iskustva i vežbe. 
 
 Detaljno opisana iskustva i metode, od online razgovore, preko upoznavanja i sexa, a u nekim slučajevima i veze. 
 
-# Ko sam ja? 
+## Ko sam ja? 
 
 Ja sam Nemanja Nedeljković. Na prvi pogled samo još jedan od studenata velikog grada, Beograda, ali, oni koji obrate pažnju mogu da primete da sam mnogo više od toga. 
 
@@ -26,7 +28,7 @@ Naučiću vas kako da izaberete kvalitetnu uvodnu poruku koja će vam obezbediti
 
 Ostatak knjige još nisam raščlanio, ali kada dođe do toga, dopuniću ovo poglavlje. 
 
-# Dodatne napomene
+## Dodatne napomene
 
 Ova knjiga je baza mog znanja i samim tim će stalno biti ažurirana. Kako biste bili sigurni da čitate najnoviju verziju knjige, skinite je sa [ove](https://www.gitbook.com/book/nemanjan00/online-game/details) lokacije. 
 
