@@ -14,7 +14,7 @@ Na internetu postoji mnogo knjiga na ovu temu, ali smatram da je moj pogled na s
 
 # Kako čitati ovu knjigu i šta ona sadrži? 
 
-Kao i svaki programer, jako sam škrt na rečima i baš iz tog razloga je sve u ovoj knjizi isprepletano. 
+Kao i svaki programer, jako sam sistematičan i samim tim, za razumevanje svega u ovoj knjizi, bitno je čitati je detaljno i bez preskakanja. 
 Zbog toga je neophodno prvo pročitati ovu knjigu kao celinu, a kasnije možete da ponovo čitate samo delove koji vas zanimaju. 
 
 Pre svega, pričaću vam o socijalnim mrežama kako biste shvatili na koji način one funkcionišu i odabrali metodologiju koja vama najviše odgovara. 
