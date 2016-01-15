@@ -26,3 +26,7 @@ Naučiću vas kako da izaberete kvalitetnu uvodnu poruku koja će vam obezbediti
 
 Ostatak knjige još nisam raščlanio, ali kada dođe do toga, dopuniću ovo poglavlje. 
 
+# Dodatne napomene
+
+Ova knjiga je baza mog znanja i samim tim će stalno biti ažurirana. Kako biste bili sigurni da čitate najnoviju verziju knjige, skinite je sa [ove](https://www.gitbook.com/book/nemanjan00/online-game/details) lokacije. 
+
