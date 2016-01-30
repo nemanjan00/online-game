@@ -1,10 +1,10 @@
 ## Tinder
 
-Tinder je trenutno u Srbiji mnogo manje zastupljen nego Badoo, ali i dalje vredan posedovanja naloga. 
+Tinder je mobilna aplikacija za online upoznavanje. 
 
 ### Popularnost
 
-Kao što sam već rekao, Tinder je mnogo manje zastupljen nego Badoo, ali, na svu sreću, sve brže i brže napreduje na našem području. 
+Tinder je mnogo manje zastupljen nego Badoo, ali, na svu sreću, sve brže i brže napreduje na našem području. 
 
 Kada je u pitanju inostranstvo, u većini slučajeva je popularniji nego Badoo i preporučujem da ga koristite kada ste na putu. 
 
