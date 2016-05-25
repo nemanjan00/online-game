@@ -2,17 +2,19 @@
 
 ## Kratak opis knjige
 
-Online game je knjiga koja opisuje skup tehnika zavođenja devojaka koje sam skupio i usavršio godinama iskustva i vežbe. 
+Online game je knjiga o "istinama" koje sam ja naučio. 
 
-Detaljno opisana iskustva i metode, od online razgovore, preko upoznavanja i sexa, a u nekim slučajevima i veze. 
+Svako od nas poseduje neki set "istina". 
+
+Ako čitaš ovu knjigu, to znači da si osoba koja je spremna da preispita sebe i svoj set "istina". 
+
+Pogrešan set "istina" je nešto što može da te spreči  da efikasno živiš. 
 
 ## Ko sam ja? 
 
-Ja sam Nemanja Nedeljković. Na prvi pogled samo još jedan od studenata velikog grada, Beograda, ali, oni koji obrate pažnju mogu da primete da sam mnogo više od toga. 
+Ja sam Nemanja Nedeljković. 
 
-Ja sam haker po verskom, nacionalnom i seksualnom opredeljenju. Ono što me pokreće jesu radoznalost i neiscrpna želja da sve naučim,  razumem i sistematizujem. 
-
-Na internetu postoji mnogo knjiga na ovu temu, ali smatram da je moj pogled na svet dao ovoj knjizi potpuno drugačije čari i umnogome je oblikovao. 
+Ja sam haker po verskom, nacionalnom i seksualnom opredeljenju. Ono što me pokreće jesu radoznalost i neiscrpna želja za razumevanjem sveta koji me okružuje. 
 
 ## Kako čitati ovu knjigu i šta ona sadrži? 
 

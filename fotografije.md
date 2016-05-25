@@ -6,15 +6,15 @@ Osnovni faktori pri izboru fotografija su:
 
 * Izaberite fotografije na kojima ste lepo ispali - Koliko god fotografija bila dobra i zanimljiva, mnogo bitnije je da vi ispadnete lepo na njoj. 
 
-* Bitno je da fotografije prikažu neku priču - Treba se izdvojiti od ostalih, pokazati svoju vrednost, pokazati kako imate ispunjan život i niste neko ko samo čeka baš tu osobu zavejući i ne radeći ništa. 
-
-* Pitajte drugarice za savet
-
-* Nemojte postavljati mutne slike, čak i ako je to samo efekat
-
 * Vi treba da budete u fokusu i treba da budu naglašeni vaši pozitivni detalji
 
 * Uglovi mogu mnogo da promene izgled fotografije. Ako ste shvatili da iz određenog ugla lepo ispadate sa fotografijama, pokušajte da to iskoristite.
+
+* Nemojte postavljati mutne slike, čak i ako je to samo efekat
+
+* Pitajte drugarice za savet
+
+* Bitno je da fotografije prikažu neku priču - Treba se izdvojiti od ostalih, pokazati svoju vrednost, pokazati kako imate ispunjan život i niste neko ko samo čeka baš tu osobu zavejući i ne radeći ništa. 
 
 * Spontane fotografije obično ispadnu najbolje
 
