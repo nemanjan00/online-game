@@ -2,11 +2,9 @@
 
 ## Short description of book
 
-Online game is a book about truths I learned.  
+Online game is a book about truths I learned and how I use them to seduce women.  
 
-If you are reading this book, that means you are a person who is ready to question your set of truths and discover new world. 
-
-I am mostly going to talk about widespread truths in seduction world that are false and, if you possess them, are probably blocking you from becoming the best yourself you can be... 
+If you are a person who is ready to question everything you know, this book is for you. If you are starting to read this book with judgemental mindset, you better do not read it... 
 
 ## Who am I?  
 
