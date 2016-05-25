@@ -4,17 +4,13 @@
 
 Online game is a book about truths I learned.  
 
-Each and every one of us possesses set of truths.
+If you are reading this book, that means you are a person who is ready to question your set of truths. 
 
-If you are reading this book, that means you are a person who is ready to question your truths. 
+## Who am I?  
 
-Wrong set of truths can stop you from living life you want to live. 
+I am  Nemanja Nedeljković. 
 
-## Ko sam ja? 
-
-Ja sam Nemanja Nedeljković. 
-
-Ja sam haker po verskom, nacionalnom i seksualnom opredeljenju. Ono što me pokreće jesu radoznalost i neiscrpna želja za razumevanjem sveta koji me okružuje. 
+If you ask me for my nationality, my religion, my race... I am going to answer that I am hacker. 
 
 ## Kako čitati ovu knjigu i šta ona sadrži? 
 
