@@ -1,14 +1,14 @@
 # Online Game
 
-## Kratak opis knjige
+## Short description of book
 
-Online game je knjiga o "istinama" koje sam ja naučio. 
+Online game is a book about truths I learned.  
 
-Svako od nas poseduje neki set "istina". 
+Each and every one of us possesses set of truths.
 
-Ako čitaš ovu knjigu, to znači da si osoba koja je spremna da preispita sebe i svoj set "istina". 
+If you are reading this book, that means you are a person who is ready to question your truths. 
 
-Pogrešan set "istina" je nešto što može da te spreči  da efikasno živiš. 
+Wrong set of truths can stop you from living life you want to live. 
 
 ## Ko sam ja? 
 
