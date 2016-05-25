@@ -10,5 +10,9 @@ To be able to do that, we start with thinking about babies... Before being born,
 
 Gene selection is evolutive process that we have to thank for big part of what we are today. 
 
+### Survive and reproduce
 
+Thanks to evolution, only creatures with instincts to survive and reproduce made it to today. 
+
+We can use these to as main instincts, to be able to develop deeper understanding of human nature. 
 
