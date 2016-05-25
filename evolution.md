@@ -12,10 +12,11 @@ Gene selection is evolutive process that we have to thank for big part of what w
 
 For understanding what we need to understand, it is important for us to take a look at instincts that survived evolution. 
 
-### Survive and reproduce
+#### Survive and reproduce
 
 Evolution is first of all test if creatures are able to survive long enough to reproduce. So, most important instincts are survival and reproduction. 
 
 These two are in core of every creature including humans. 
 
+#### Anxiety
 
