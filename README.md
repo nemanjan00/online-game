@@ -12,6 +12,8 @@ I am  Nemanja Nedeljković.
 
 If you ask me for my nationality, my religion, my race... I will answer that I am hacker. 
 
+I am very lazy, so, in my life, I try to automate everything! 
+
 ## Additional notes
 
 This book is database of my knowledge and is being updated regularly. To make sure you are reading last version of book, download it [here](https://www.gitbook.com/book/nemanjan00/online-game/details). 

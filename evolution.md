@@ -16,7 +16,17 @@ For understanding what we need to understand, it is important for us to take a l
 
 Evolution is first of all test if creatures are able to survive long enough to reproduce. So, most important instincts are survival and reproduction. 
 
-These two are in core of every creature including humans. 
+These two are in core of every creature including humans and are very important for understanding seduction. 
 
 #### Anxiety
+
+Most of animals move and live in groups... There are alfa and beta males. Alfas are leading rest of the group, protecting them, hunting... 
+
+When it is time to reproduce, alfas choose best females and betas stay aside... If betas get involved, they get killed by alfas... 
+
+As a humans, we are not too much different than animals. Hundreds years ago, we also used to be like that. If man approached wrong woman, he would get killed. 
+
+That is one of main reasons men today are afraid to approach women. 
+
+That means that we all have some amount of anxiety and what matters is if we can manage to control it. 
 
